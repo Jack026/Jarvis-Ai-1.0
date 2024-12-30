@@ -77,7 +77,7 @@ def search_web(query):
 
 def get_weather(location):
     """Fetch current weather for a location using OpenWeatherMap API."""
-    api_key = "3bbca5c6b6ec60b6af2c3016ea8e8c7f"
+    api_key = "YOUR_API"
     url = f"http://api.openweathermap.org/data/2.5/weather?q={location}&appid={api_key}&units=metric"
     try:
         response = requests.get(url)
