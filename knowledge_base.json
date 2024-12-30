@@ -1,0 +1,118 @@
+{
+    "greetings": "Hello! How can I help you today?",
+    "faqs": {
+        "what is your name": "I am Jarvis, your virtual assistant.",
+        "how are you": "I'm just a bunch of code, but I'm functioning as expected. Thank you!",
+        "what can you do": "I can assist you with tasks, answer your questions, and help you with various topics.",
+        "who created you": "I was created by Sourav Jyoti.",
+        "what is your purpose": "My purpose is to assist and make your life easier with my capabilities."
+    },
+    "personal_information": {
+        "name": "Sourav Jyoti",
+        "favorite_color": "Blue",
+        "hobbies": [
+            "Coding",
+            "Reading",
+            "Listening to music",
+            "Watching movies"
+        ],
+        "favorite_food": [
+            "Pizza",
+            "Ghee"
+        ],
+        "goals": [
+            "Crack the GATE 2027 exam",
+            "Build innovative projects",
+            "Lead in technology development",
+            "Start a tech startup"
+        ],
+        "birthday": "March 10th",
+        "graduation_year": "2027",
+        "Studying": "B-Tech CSE"
+    },
+    "inspirational_quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "reminders": {
+        "study_time": "Start studying daily from 4 PM to 6 PM.",
+        "exercise": "Do a quick workout at 7 AM daily.",
+        "hydration": "Drink at least 8 glasses of water daily."
+    },
+    "important_dates": {
+        "birthday": "March 10th",
+        "graduation_year": "2027",
+        "project_deadlines": [
+            {
+                "project_name": "Career Recommendation App",
+                "deadline": "December 15, 2024"
+            },
+            {
+                "project_name": "Flutter Pomodoro Timer",
+                "deadline": "March 10, 2025"
+            }
+        ]
+    },
+    "skills_to_develop": [
+        "Advanced Flutter Development",
+        "Data Structures and Algorithms",
+        "AI and Machine Learning",
+        "Leadership and Communication"
+    ],
+    "current_projects": [
+        {
+            "name": "Career Recommendation App",
+            "status": "In progress",
+            "technologies": [
+                "Flutter",
+                "OpenAI API"
+            ]
+        },
+        {
+            "name": "Women's Safety App - SafeWalk",
+            "status": "Planning",
+            "technologies": [
+                "Flutter",
+                "Google Maps API"
+            ]
+        }
+    ],
+    "daily_schedule": {
+        "morning": "Wake up, exercise, and have breakfast.",
+        "afternoon": "Attend classes and focus on project work.",
+        "evening": "Study for GATE and work on personal projects.",
+        "night": "Relax and review the day's work before sleeping."
+    },
+    "motivational_reminders": [
+        "Believe in yourself. You are capable of amazing things!",
+        "Consistency is the key to success. Keep going!",
+        "Your hard work today will pay off tomorrow."
+    ],
+    "what's my name": "sourav jyoti",
+    "how are you": "i am doing really great today what about you",
+    "hey what's up what are you doing": "i am really good",
+    "who created you": "i was created by sourav",
+    "who is the founder of": "I'm sorry, could you please provide more context or clarify the topic you are asking about?",
+    "who is the founder of facebook": "Mark Zuckerberg is the founder of Facebook. He co-founded the social media platform in 2004 along with his college roommates at Harvard University.",
+    "greeting": "Hello! How can I assist you today?",
+    "name": "Sourav Jyoti",
+    "favorite_color": "Blue",
+    "hobbies": [
+        "Coding",
+        "Reading",
+        "Listening to music",
+        "Watching movies"
+    ],
+    "favorite_food": [
+        "Pizza",
+        "Ghee"
+    ],
+    "goals": [
+        "Crack the GATE 2027 exam",
+        "Build innovative projects",
+        "Lead in technology development",
+        "Start a tech startup"
+    ],
+    "birthday": "March 10th",
+    "graduation_year": "2027",
+    "Studying": "B-Tech CSE",
+    "what's my favourite": "when is my birthday",
+    "who is the founder of google": "Google was founded by Larry Page and Sergey Brin. They started Google in 1998 while they were Ph.D. students at Stanford University in California."
+}
