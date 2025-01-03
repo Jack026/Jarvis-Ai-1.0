@@ -81,6 +81,10 @@ To deploy this project run
 - **Documentation:** Maintain clear documentation for better communication and onboarding.
 - **Integration:** Prepare for challenges in integrating various technologies.
 - **Monitoring:** Establish a monitoring system for timely issue resolution post-launch.
+## Jarvis
+
+![AI Jarvis GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRnbHRpZWZleXJqZWg4MmF2MWpud2FxbzVpcmd3ZmhoZWJuc3JpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif)
+
 
 ## License
 
